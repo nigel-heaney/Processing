@@ -1,2 +1,2 @@
 # Processing
-A collection of my processing projects/tests/examples
+A collection of my processing projects/tests/examples.
